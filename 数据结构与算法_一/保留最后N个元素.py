@@ -6,5 +6,3 @@ def search(lines, pattern, history = 5):
     for line in lines:
         if pattern in line:
             yield line,previous_lines
-
-            self.get_urlself.get_urll
